@@ -1,6 +1,8 @@
-/*************************************************
+/******************************************************************************
  EventSource Script - Collector Attributes
-*************************************************/
+ https://www.logicmonitor.com/support/logicmodules/eventsources/types-of-events/script-eventsources
+******************************************************************************/
+
 import org.apache.http.HttpEntity
 import org.apache.http.client.entity.EntityBuilder
 import org.apache.http.util.EntityUtils
