@@ -1,3 +1,6 @@
+/*************************************************
+ EventSource Script - Collector Attributes
+*************************************************/
 import org.apache.http.HttpEntity
 import org.apache.http.client.entity.EntityBuilder
 import org.apache.http.util.EntityUtils
